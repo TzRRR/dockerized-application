@@ -1,5 +1,7 @@
 ## Dockerized Python App
 
+[![CI](https://github.com/TzRRR/dockerized-application/actions/workflows/cicd.yml/badge.svg)](https://github.com/TzRRR/dockerized-application/actions/workflows/cicd.yml)
+
 This application is containerized with Docker and available on Docker Hub.
 
 #### Pull the Image
